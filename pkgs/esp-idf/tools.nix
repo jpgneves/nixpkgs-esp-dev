@@ -14,9 +14,10 @@
 , glibc
 , ncurses5
 , python3
-, python310
 , python311
 , python312
+, python313
+, python314
 , libxml2_13
 }:
 
@@ -38,9 +39,10 @@ let
     libusb1
     udev
     python3
-    python310
     python311
     python312
+    python313
+    python314
     libxml2_13
   ];
 
